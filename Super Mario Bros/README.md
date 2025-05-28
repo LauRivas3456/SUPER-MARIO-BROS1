@@ -15,6 +15,13 @@ Requisitos para ejecucion
 Instalación
 git clone https://github.com/LauRivas3456/SUPER-MARIO-BROS1.git
 
+Mecánica básica de juego
+El juego se maneja mediante las flechas de dirección 
+- Flecha izquierda: Mover a la izquierda  
+- Flecha derecha: Mover a la derecha  
+- Flecha hacia arriba: Saltar  
+
+
 Documentacion
 main.py
 Es el archivo principal del juego. Se encarga de iniciar todo: abre la ventana, carga imágenes y sonidos, y corre el bucle donde se actualiza y dibuja todo.
